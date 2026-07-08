@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
 
-import NavBar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import AddTrip from "./components/AddTrip";
 import MyTrip from "./components/MyTrips"

@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./NavBar.css";
+import "./Navbar.css";
 
-function NavBar() {
+function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">Trip Planner</div>
@@ -18,4 +18,4 @@ function NavBar() {
   );
 }
 
-export default NavBar;
+export default Navbar;

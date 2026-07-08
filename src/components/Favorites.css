@@ -1,0 +1,26 @@
+.favorites{
+    text-align:center;
+    padding:40px;
+    color:#3D405B;
+}
+
+.favorites ul{
+    list-style:none;
+    margin-top:20px;
+}
+
+.favorites li{
+    margin:15px;
+    font-size:22px;
+}
+
+th{
+    background:#E76F51;
+    color:white;
+}
+
+table,
+th,
+td{
+    border:1px solid #E9ECEF;
+}

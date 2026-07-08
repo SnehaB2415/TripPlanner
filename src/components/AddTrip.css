@@ -1,0 +1,44 @@
+.addTrip{
+    width:70%;
+    margin:40px auto;
+    background:white;
+    color: #3D405B;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 5px 10px rgba(0,0,0,.2);
+}
+
+.addTrip h1{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.addTrip form{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+
+.addTrip input{
+    padding:12px;
+    font-size:16px;
+    border:1px solid #E9ECEF;
+}
+.addTrip textarea{
+    padding:12px;
+    font-size:16px;
+    border:1px solid #E9ECEF;
+}
+
+.addTrip button{
+    padding:12px;
+    background:#F4A261;
+    color:white;
+    border:none;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+.addTrip button :hover{
+    background:#E76F51;
+}
